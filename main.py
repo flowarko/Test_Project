@@ -19,7 +19,7 @@ if __name__ == "__main__":
     w.setWindowTitle('Guru99')
 
     label = QLabel(w)
-    label.setText("Behold the Guru, Guru99")
+    label.setText("FAU")
     label.move(100, 130)
     label.show()
 
