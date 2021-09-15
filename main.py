@@ -27,6 +27,7 @@ if __name__ == "__main__":
     btn.setText('Beheld')
     btn.move(110, 150)
     btn.show()
+    print('Ö')
     btn.clicked.connect(dialog)
 
     w.show()
