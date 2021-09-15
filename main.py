@@ -22,6 +22,7 @@ if __name__ == "__main__":
     label.setText("FAU")
     label.move(100, 130)
     label.show()
+    app
 
     btn = QPushButton(w)
     btn.setText('Beheld')
